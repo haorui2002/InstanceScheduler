@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title : Instance Scheduler
+## Title-zhCN : 副本进度工具
+## Notes-zhCN: 全自动化的副本进度处理工具
+## Version: 1.0
+## SavedVariables: InstanceSchedulerVariables
+
+Codes.xml

@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="SWITCHON" header="INSTANCESCHEDULER" category="ADDONS">
+        InstanceScheduler.Util:SwitchOn()
+    </Binding>
+</Bindings>
